@@ -99,7 +99,7 @@ Features: Automatically selected numerical columns
   - Model comparison
   - Hyperparameter tuning
   - Feature importance extraction
-##📈 Results
+## 📈 Results
  ### Model	Performance
 Decision Tree	- Higher MAE
 Random Forest	 - ✅ Lower MAE (Best)
