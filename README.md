@@ -123,10 +123,10 @@ Only numerical features used
 No advanced feature engineering
 No cross-validation
 
-##📜 Conclusion
+## 📜 Conclusion
 
 This project demonstrates a complete machine learning pipeline from data preprocessing to model evaluation. The Random Forest model outperforms the Decision Tree and provides better prediction accuracy.
 
-##🤝 Acknowledgment
+## 🤝 Acknowledgment
 
 Special thanks to Bandla Pawan Babu for guidance in the subject Fundamentals in AI/ML.
